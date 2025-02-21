@@ -1,2 +1,9 @@
 # Programming-Languages-
-[ECE NTUA] Various exercises in multiple paradigms (Object-Oriented, Logical, Functional). Solutions to programming problems in C++, Java, Python, Prolog, and SML/NJ, covering algorithmic, logical, and functional approaches.
+This repository contains solutions to various **algorithmic, logical, and functional programming problems**, implemented in multiple languages, including:  
+
+- **C++** – Efficient and optimized solutions using STL and algorithms  
+- **Java** – Object-oriented approaches with clean and modular design  
+- **Python** – Readable and concise implementations with powerful libraries  
+- **Prolog** – Logic-based problem-solving using declarative programming  
+- **Standard ML (SML/NJ)** – Functional programming techniques with strong type inference  
+
